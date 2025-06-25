@@ -1,6 +1,6 @@
 Integrantes:
 Adriel Rattes Cortez<br>
-Fernando Dias Araujo
-Giuliano oliveira da Silva
-Milton Wagner Filho
-Paulo Ricardo de Camargo
+Fernando Dias Araujo<br>
+Giuliano oliveira da Silva<br>
+Milton Wagner Filho<br>
+Paulo Ricardo de Camargo<br>
