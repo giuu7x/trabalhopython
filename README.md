@@ -1,5 +1,5 @@
 Integrantes:
-Adriel Rattes Cortez
+Adriel Rattes Cortez<br>
 Fernando Dias Araujo
 Giuliano oliveira da Silva
 Milton Wagner Filho
